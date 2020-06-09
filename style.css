@@ -1,0 +1,47 @@
+         * {
+            box-sizing: border-box;
+        }
+        body {
+            font-family: Arial, Verdana, sans-serif;
+        }
+        header {
+            background-color: grey;
+            text-align: center;
+            font-size: 40px;
+            
+        }
+        nav {
+            background-color: rgb(48, 38, 38);
+            font-size: 20px;
+            color: blue;
+        }
+        .nav li{
+            display: inline;
+            list-style-type: none;
+        }
+        .nav :hover{
+            background-color: lightcyan;
+        }
+        h1 {
+            color: purple;
+            font-size: 40px;
+        }
+        .btn {
+            border: none;
+            color: white;
+            padding: 15px 32px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 16px;
+            margin: 4px 2px;
+            cursor: pointer;
+            background-color: greenyellow;
+    
+        }
+
+        .register{
+            
+        }
+        
+        
