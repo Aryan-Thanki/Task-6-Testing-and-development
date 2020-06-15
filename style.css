@@ -5,7 +5,7 @@
             font-family: Arial, Verdana, sans-serif;
         }
         header {
-            background-color: grey;
+            background-color: violet;
             text-align: center;
             font-size: 40px;
             
@@ -19,29 +19,24 @@
             display: inline;
             list-style-type: none;
         }
-        .nav :hover{
-            background-color: lightcyan;
-        }
         h1 {
             color: purple;
             font-size: 40px;
         }
         .btn {
             border: none;
-            color: white;
-            padding: 15px 32px;
+            color: greenyellow;
+            padding: 32px 45px;
             text-align: center;
             text-decoration: none;
             display: inline-block;
             font-size: 16px;
             margin: 4px 2px;
             cursor: pointer;
-            background-color: greenyellow;
-    
-        }
-
-        .register{
             
+        }
+        .register{
+            margin-right: -px;
         }
         
         
